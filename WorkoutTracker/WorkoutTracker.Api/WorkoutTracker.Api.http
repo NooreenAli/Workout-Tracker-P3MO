@@ -1,0 +1,6 @@
+@WorkoutTracker.Api_HostAddress = http://localhost:5227
+
+GET {{WorkoutTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

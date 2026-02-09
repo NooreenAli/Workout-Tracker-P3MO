@@ -1,0 +1,12 @@
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\bin\Debug\net9.0\WorkoutTracker.Domain.deps.json
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\bin\Debug\net9.0\WorkoutTracker.Domain.dll
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\bin\Debug\net9.0\WorkoutTracker.Domain.pdb
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.AssemblyInfo.cs
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.sourcelink.json
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.dll
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\refint\WorkoutTracker.Domain.dll
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\WorkoutTracker.Domain.pdb
+C:\Users\noore\Documents\Repos\Workout-Tracker-P3MO\WorkoutTracker\WorkoutTracker.Domain\obj\Debug\net9.0\ref\WorkoutTracker.Domain.dll
