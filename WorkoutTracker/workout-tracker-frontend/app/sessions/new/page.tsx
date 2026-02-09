@@ -8,11 +8,16 @@ import Link from "next/link";
 
 const setSchema = z.object({
   exerciseId: z.number(),
-  reps: z.number().min(1, "Reps must be at least 1"),
+
+  reps: z
+    .number()
+    .min(1, "Reps must be at least 1")
+    .max(1000, "Reps cannot exceed 1000"),
+
   weightKg: z
     .number()
     .min(0, "Weight cannot be negative")
-    .max(9999.99, "Max weight is 9999.99")
+    .max(2000, "Weight cannot exceed 2000kg")
     .refine((val) => Number(val.toFixed(2)) === val, {
       message: "Maximum 2 decimal places allowed",
     }),
