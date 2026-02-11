@@ -26,7 +26,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-//app.UseMiddleware<ApiKeyMiddleware>();
+app.UseMiddleware<ApiKeyMiddleware>();
 
 // Swagger
 if (app.Environment.IsDevelopment())

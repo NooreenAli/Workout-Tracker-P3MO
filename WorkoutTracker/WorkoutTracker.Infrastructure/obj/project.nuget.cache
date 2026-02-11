@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "duUHAZ1PbLc=",
+  "dgSpecHash": "iGiY8xb5+Gk=",
   "success": true,
   "projectFilePath": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Infrastructure\\WorkoutTracker.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -82,7 +82,10 @@
     "C:\\Users\\noore\\.nuget\\packages\\system.text.json\\9.0.12\\system.text.json.9.0.12.nupkg.sha512",
     "C:\\Users\\noore\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\noore\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\noore\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\noore\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\noore\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\noore\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\noore\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512"
   ],
   "logs": []
 }

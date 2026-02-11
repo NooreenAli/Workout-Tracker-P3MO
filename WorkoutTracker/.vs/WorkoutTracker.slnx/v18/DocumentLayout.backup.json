@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{066006A9-D921-4A81-BC51-E0D3E684CD93}|WorkoutTracker.Domain\\WorkoutTracker.Domain.csproj|c:\\users\\noore\\documents\\repos\\workout-tracker-p3mo\\workouttracker\\workouttracker.domain\\workoutset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{066006A9-D921-4A81-BC51-E0D3E684CD93}|WorkoutTracker.Domain\\WorkoutTracker.Domain.csproj|solutionrelative:workouttracker.domain\\workoutset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|c:\\users\\noore\\documents\\repos\\workout-tracker-p3mo\\workouttracker\\workouttracker.api\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|solutionrelative:workouttracker.api\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|c:\\users\\noore\\documents\\repos\\workout-tracker-p3mo\\workouttracker\\workouttracker.api\\dtos\\analytics\\volumebysessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|solutionrelative:workouttracker.api\\dtos\\analytics\\volumebysessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|c:\\users\\noore\\documents\\repos\\workout-tracker-p3mo\\workouttracker\\workouttracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143A0EF0-7C0C-4420-8A68-838778AA0D66}|WorkoutTracker.Api\\WorkoutTracker.Api.csproj|solutionrelative:workouttracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkoutSet.cs",
-              "DocumentMoniker": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Domain\\WorkoutSet.cs",
-              "RelativeDocumentMoniker": "WorkoutTracker.Domain\\WorkoutSet.cs",
-              "ToolTip": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Domain\\WorkoutSet.cs",
-              "RelativeToolTip": "WorkoutTracker.Domain\\WorkoutSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WorkoutTracker.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\Program.cs",
+              "RelativeToolTip": "WorkoutTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:52:42.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VolumeBySessionDto.cs",
-              "DocumentMoniker": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\DTOs\\Analytics\\VolumeBySessionDto.cs",
-              "RelativeDocumentMoniker": "WorkoutTracker.Api\\DTOs\\Analytics\\VolumeBySessionDto.cs",
-              "ToolTip": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\DTOs\\Analytics\\VolumeBySessionDto.cs",
-              "RelativeToolTip": "WorkoutTracker.Api\\DTOs\\Analytics\\VolumeBySessionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:51:09.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AnalyticsService.cs",
-              "DocumentMoniker": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\Services\\AnalyticsService.cs",
-              "RelativeDocumentMoniker": "WorkoutTracker.Api\\Services\\AnalyticsService.cs",
-              "ToolTip": "C:\\Users\\noore\\Documents\\Repos\\Workout-Tracker-P3MO\\WorkoutTracker\\WorkoutTracker.Api\\Services\\AnalyticsService.cs",
-              "RelativeToolTip": "WorkoutTracker.Api\\Services\\AnalyticsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:51:04.073Z",
+              "WhenOpened": "2026-02-10T23:06:28.891Z",
               "EditorCaption": ""
             }
           ]
